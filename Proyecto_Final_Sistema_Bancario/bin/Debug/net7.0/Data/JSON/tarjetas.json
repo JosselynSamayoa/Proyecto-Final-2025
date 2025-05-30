@@ -1,0 +1,18 @@
+[
+  {
+    "NumeroTarjeta": "1234567890123456",
+    "TipoTarjeta": "Visa",
+    "FechaVencimiento": "2026-12-31T00:00:00",
+    "LimiteCredito": 5000.00,
+    "SaldoActual": 1200.50,
+    "ClienteID": "1"
+  },
+  {
+    "NumeroTarjeta": "9876543210987654",
+    "TipoTarjeta": "MasterCard",
+    "FechaVencimiento": "2027-06-30T00:00:00",
+    "LimiteCredito": 7000.00,
+    "SaldoActual": 300.75,
+    "ClienteID": "2"
+  }
+]

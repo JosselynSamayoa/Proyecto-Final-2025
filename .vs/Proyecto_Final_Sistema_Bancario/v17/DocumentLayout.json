@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Faggi\\source\\repos\\Proyecto_Final_Sistema_Bancario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{043A6F11-DAD8-4A9E-8425-C0CD13DDF765}|Proyecto_Final_Sistema_Bancario\\Proyecto_Final_Sistema_Bancario.csproj|c:\\users\\faggi\\source\\repos\\proyecto_final_sistema_bancario\\proyecto_final_sistema_bancario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043A6F11-DAD8-4A9E-8425-C0CD13DDF765}|Proyecto_Final_Sistema_Bancario\\Proyecto_Final_Sistema_Bancario.csproj|solutionrelative:proyecto_final_sistema_bancario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Faggi\\source\\repos\\Proyecto_Final_Sistema_Bancario\\Proyecto_Final_Sistema_Bancario\\Program.cs",
+              "RelativeDocumentMoniker": "Proyecto_Final_Sistema_Bancario\\Program.cs",
+              "ToolTip": "C:\\Users\\Faggi\\source\\repos\\Proyecto_Final_Sistema_Bancario\\Proyecto_Final_Sistema_Bancario\\Program.cs",
+              "RelativeToolTip": "Proyecto_Final_Sistema_Bancario\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T06:24:12.5Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "ClienteID": "1",
+    "Nombre": "Juan",
+    "Apellido": "P�rez",
+    "FechaNacimiento": "1980-01-01T00:00:00",
+    "Email": "juan@ejemplo.com",
+    "Telefono": "5551234",
+    "Direccion": "Av. Central 123",
+    "Calle": "Central",
+    "Ciudad": "Guatemala",
+    "CodigoPostal": "01001"
+  },
+  {
+    "ClienteID": "2",
+    "Nombre": "Ana",
+    "Apellido": "L�pez",
+    "FechaNacimiento": "1990-05-10T00:00:00",
+    "Email": "ana@ejemplo.com",
+    "Telefono": "5555678",
+    "Direccion": "3a. Calle 45",
+    "Calle": "3a. Calle",
+    "Ciudad": "Guatemala",
+    "CodigoPostal": "01002"
+  }
+]

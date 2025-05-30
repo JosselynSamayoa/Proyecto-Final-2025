@@ -1,0 +1,18 @@
+[
+  {
+    "GestionID": "g-2001",
+    "NumeroTarjeta": "1234567890123456",
+    "FechaSolicitud": "2025-05-20T09:00:00",
+    "TipoGestion": "Bloqueo",
+    "Estado": "Pendiente",
+    "Comentarios": "Reporte de robo"
+  },
+  {
+    "GestionID": "g-2002",
+    "NumeroTarjeta": "9876543210987654",
+    "FechaSolicitud": "2025-05-21T11:30:00",
+    "TipoGestion": "AumentoLimite",
+    "Estado": "Aprobado",
+    "Comentarios": "Solicitud de plus"
+  }
+]

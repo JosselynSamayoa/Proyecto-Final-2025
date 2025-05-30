@@ -1,0 +1,20 @@
+[
+  {
+    "TransaccionID": "txn-1001",
+    "NumeroTarjeta": "1234567890123456",
+    "Fecha": "2025-05-23T14:30:00",
+    "Tipo": "Consumo",
+    "Monto": 250.75,
+    "Descripcion": "Compra Supermercado",
+    "Categoria": "Supermercado"
+  },
+  {
+    "TransaccionID": "txn-1002",
+    "NumeroTarjeta": "1234567890123456",
+    "Fecha": "2025-05-22T10:15:00",
+    "Tipo": "Pago",
+    "Monto": 500.00,
+    "Descripcion": "Pago en l�nea",
+    "Categoria": "Pago"
+  }
+]
