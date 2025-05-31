@@ -4,6 +4,12 @@ Universidad Mariano Gálvez – 2025
 Nombre del proyecto:
 Sistema de Gestión de Tarjetas de Crédito
 
+Integrantes:
+Josselyn Elizabeth Samayoa Barillas 0900-21-12771
+Dino Alexander Faggioli Valenzuela 0900-20-5088 
+
+Link video explicativo: https://drive.google.com/file/d/1nUqbFr-SdS5y6cZ4_0qEwjE1b5UL_0jt/view?usp=drive_link
+
 Lenguaje y entorno de desarrollo:
 C# con .NET 7.0, desarrollado en Visual Studio 2022.
 
